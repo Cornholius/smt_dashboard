@@ -186,3 +186,14 @@ public/lib/raphael/raphael.min.js
 public/lib/xchart/d3.v3.min.js
 public/lib/xchart/xcharts.css
 public/lib/xchart/xcharts.min.js
+public/lib/advanced-datatable/images/favicon.ico
+public/lib/bootstrap/css/bootstrap.css
+public/lib/bootstrap/css/bootstrap.min.css
+public/lib/bootstrap/fonts/glyphicons-halflings-regular.eot
+public/lib/bootstrap/fonts/glyphicons-halflings-regular.svg
+public/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf
+public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff
+public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2
+public/lib/bootstrap-wysihtml5/bootstrap-wysihtml5.css
+public/lib/bootstrap-wysihtml5/bootstrap-wysihtml5.js
+public/lib/bootstrap-wysihtml5/wysihtml5-0.3.0.js

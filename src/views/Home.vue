@@ -14,10 +14,14 @@ export default {
   components: {
     HelloWorld
   },
-  data () {
-    return {
-      title: 'Ololo'
+  watch: {
+    $route: {
+      immediate: true,
+      handler (to, from) {
+        document.title = to.meta.title || 'Почта'
+      }
     }
   }
 }
+
 </script>
