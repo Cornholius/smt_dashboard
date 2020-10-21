@@ -5,9 +5,7 @@
       <Sidebar />
       <section id="main-content">
         <section class="wrapper">
-          <div class="row">
             <router-view />
-          </div>
         </section>
       </section>
     </section>
@@ -27,9 +25,10 @@ export default {
 
 </script>
 <style>
-
 #main-content {
   text-align: center;
 }
-
+.wrapper {
+  padding-top: 15px;
+}
 </style>
